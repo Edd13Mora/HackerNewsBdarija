@@ -9,3 +9,6 @@ We still developing the idea and we think to make it more interesting,
 If you have any idea or any way to colaborate with us, ur welcome anytime 🛡
 
 ![foxdemo](https://raw.githubusercontent.com/Edd13Mora/HackerNewsBdarija/main/197646775_1162914687505947_1372798990718674069_n.jpg)
+
+![foxdemo](https://raw.githubusercontent.com/Edd13Mora/HackerNewsBdarija/main/197909956_1162914607505955_3059537368206584142_n.jpg)
+
