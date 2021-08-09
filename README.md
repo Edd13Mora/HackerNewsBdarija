@@ -1,5 +1,5 @@
 # HackerNewsBdarija
-[The Hack3r news B'darija] www.thehackernewsbdarija.com
+[The Hack3r news B'darija] www.thehackernewsbdarija.com | https://www.youtube.com/channel/UCNFzmwHCejXRfkWfkEtqPbg
 A project I decided to start to share with the Moroccan community my journey as a Hacker! 
 Its the story of Eddie Mora and his two friends Pwny and Jakom where they will share funny stories about Hacking in realy life!
 The broject will include cyber security news, bugs explainations and our funny moments during CTF games!
