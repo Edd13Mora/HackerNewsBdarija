@@ -1,4 +1,4 @@
-# HackerNewsBdarija
+# The HackerNews B'darija
 [The Hack3r news B'darija] [www.thehackernewsbdarija.com] | [https://www.youtube.com/channel/UCNFzmwHCejXRfkWfkEtqPbg]
 
 A project I decided to start to share with the Moroccan community my journey as a Hacker! 
